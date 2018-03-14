@@ -1,0 +1,88 @@
+{
+    "events" : [
+        {
+            "date" : "2018-03-03",
+            "activity" : "stationary bike",
+            "duration" : "00:50:20",
+            "distance (km)" : 20.0,
+            "notes" : "Resistance set to 60 for 19.0 km, 80 for last 1.0 km.",
+            "calories burned" : 1120
+        },
+        {
+            "date" : "2018-03-04",
+            "activity" : "hike",
+            "duration" : "02:07:01",
+            "distance (km)" : 10.3,
+            "notes" : "Low intensity with very light backpack."
+        },
+        {
+            "date" : "2018-03-05",
+            "activity" : "walk",
+            "duration" : "01:35:16",
+            "distance (km)" : 8.01,
+            "notes" : "Low intensity"
+        },
+        {
+            "date" : "2018-03-05",
+            "activity" : "walk",
+            "duration" : "01:28:57",
+            "distance (km)" : 7.44,
+            "notes" : "Low intensity"
+        },
+        {
+            "date" : "2018-03-06",
+            "activity" : "stationary bike",
+            "duration" : "00:30:00",
+            "distance (km)" : 11.6,
+            "notes" : "Resistance set to 60 for first 25 mins, 80 for last 5 mins."
+        },
+        {
+            "date" : "2018-03-07",
+            "activity" : "stationary bike",
+            "duration" : "00:30:00",
+            "distance (km)" : 11.9,
+            "notes" : "Resistance set to 60."
+        },
+        {
+            "date" : "2018-03-08",
+            "activity" : "shoveling snow",
+            "duration" : "00:20:00",
+            "notes" : "Medium intensity."
+        },
+        {
+            "date" : "2018-03-09",
+            "activity" : "swim",
+            "duration" : "00:18:00",
+            "distance (km)" : 0.55,
+            "notes" : "Low intensity, cut short."
+        },
+        {
+            "date" : "2018-03-10",
+            "activity" : "stationary bike",
+            "duration" : "00:30:00",
+            "distance (km)" : 12.6,
+            "notes" : "Resistance set to 60."
+        },
+        {
+            "date" : "2018-03-12",
+            "activity" : "swim",
+            "duration" : "00:45:00",
+            "distance (km)" : 10.0,
+            "notes" : "Low intensity."
+        },
+        {
+            "date" : "2018-03-13",
+            "activity" : "stationary bike",
+            "duration" : "00:41:00",
+            "distance (km)" : 17.4,
+            "notes" : "Resistance set to 60."
+        },
+        {
+            "date" : "2018-03-14",
+            "activity" : "walk",
+            "duration" : "02:12:40",
+            "distance (km)" : 11.9,
+            "notes" : "Medium intensity."
+        }
+    ]
+}
