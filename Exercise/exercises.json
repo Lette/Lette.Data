@@ -67,7 +67,7 @@
             "date" : "2018-03-12",
             "activity" : "swim",
             "duration" : "00:45:00",
-            "distance (km)" : 10.0,
+            "distance (km)" : 1.0,
             "notes" : "Low intensity."
         },
         {
@@ -82,6 +82,20 @@
             "activity" : "walk",
             "duration" : "02:12:40",
             "distance (km)" : 11.9,
+            "notes" : "Medium intensity."
+        },
+        {
+            "date" : "2018-03-16",
+            "activity" : "swim",
+            "duration" : "00:45:00",
+            "distance (km)" : 1.0,
+            "notes" : "Low intensity."
+        },
+        {
+            "date" : "2018-03-20",
+            "activity" : "walk",
+            "duration" : "02:09:15",
+            "distance (km)" : 11.1,
             "notes" : "Medium intensity."
         }
     ]
