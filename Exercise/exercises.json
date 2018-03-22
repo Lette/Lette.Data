@@ -97,6 +97,20 @@
             "duration" : "02:09:15",
             "distance (km)" : 11.1,
             "notes" : "Medium intensity."
+        },
+        {
+            "date" : "2018-03-21",
+            "activity" : "swim",
+            "duration" : "00:45:00",
+            "distance (km)" : 1.0,
+            "notes" : "Low intensity."
+        },
+        {
+            "date" : "2018-03-21",
+            "activity" : "stationary bike",
+            "duration" : "00:30:00",
+            "distance (km)" : 12.9,
+            "notes" : "Resistance set to 70."
         }
     ]
 }
